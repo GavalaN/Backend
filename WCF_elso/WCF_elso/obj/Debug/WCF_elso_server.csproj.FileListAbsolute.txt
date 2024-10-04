@@ -1,0 +1,15 @@
+E:\repos\WCF_elso\WCF_elso\bin\WCF_elso.dll.config
+E:\repos\WCF_elso\WCF_elso\bin\WCF_elso.dll
+E:\repos\WCF_elso\WCF_elso\bin\WCF_elso.pdb
+E:\repos\WCF_elso\WCF_elso\obj\Debug\WCF_elso_server.csproj.AssemblyReference.cache
+E:\repos\WCF_elso\WCF_elso\obj\Debug\WCF_elso_server.csproj.CoreCompileInputs.cache
+E:\repos\WCF_elso\WCF_elso\obj\Debug\WCF_elso.dll
+E:\repos\WCF_elso\WCF_elso\obj\Debug\WCF_elso.pdb
+C:\Users\Tanulo\Downloads\WCF_elso\WCF_elso\WCF_elso\bin\WCF_elso.dll.config
+C:\Users\Tanulo\Downloads\WCF_elso\WCF_elso\WCF_elso\bin\WCF_elso.dll
+C:\Users\Tanulo\Downloads\WCF_elso\WCF_elso\WCF_elso\bin\WCF_elso.pdb
+C:\Users\Tanulo\Downloads\WCF_elso\WCF_elso\WCF_elso\obj\Debug\WCF_elso_server.csproj.AssemblyReference.cache
+C:\Users\Tanulo\Downloads\WCF_elso\WCF_elso\WCF_elso\obj\Debug\WCF_elso_server.csproj.CoreCompileInputs.cache
+C:\Users\Tanulo\Downloads\WCF_elso\WCF_elso\WCF_elso\obj\Debug\WCF_elso.dll
+C:\Users\Tanulo\Downloads\WCF_elso\WCF_elso\WCF_elso\obj\Debug\WCF_elso.pdb
+C:\Users\Tanulo\Downloads\WCF_elso\WCF_elso\WCF_elso\bin\valami.txt

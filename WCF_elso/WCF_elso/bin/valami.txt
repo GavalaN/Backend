@@ -1,0 +1,3 @@
+eloadoAz;eloadoName
+1;jó
+2;nem jó

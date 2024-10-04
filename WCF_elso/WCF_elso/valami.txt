@@ -1,0 +1,5 @@
+eloadoAz;eloadoName
+1;jó
+2;nem jó
+3;KarakterlÃ¡nc tartalma
+4;Kara

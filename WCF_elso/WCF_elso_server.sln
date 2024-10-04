@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCF_elso_server", "WCF_elso\WCF_elso_server.csproj", "{55D8845D-3C2B-4AFC-B010-7DB1465DB6E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCF_elso_host", "WCF_elso_host\WCF_elso_host.csproj", "{69091194-324E-4972-B40E-0D6E711C9CEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCF_elso_client", "WCF_elso_client\WCF_elso_client.csproj", "{665AE095-DBD2-4957-9409-64AF4AE12991}"
+	ProjectSection(ProjectDependencies) = postProject
+		{55D8845D-3C2B-4AFC-B010-7DB1465DB6E7} = {55D8845D-3C2B-4AFC-B010-7DB1465DB6E7}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55D8845D-3C2B-4AFC-B010-7DB1465DB6E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55D8845D-3C2B-4AFC-B010-7DB1465DB6E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55D8845D-3C2B-4AFC-B010-7DB1465DB6E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55D8845D-3C2B-4AFC-B010-7DB1465DB6E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69091194-324E-4972-B40E-0D6E711C9CEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69091194-324E-4972-B40E-0D6E711C9CEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69091194-324E-4972-B40E-0D6E711C9CEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69091194-324E-4972-B40E-0D6E711C9CEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{665AE095-DBD2-4957-9409-64AF4AE12991}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{665AE095-DBD2-4957-9409-64AF4AE12991}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{665AE095-DBD2-4957-9409-64AF4AE12991}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{665AE095-DBD2-4957-9409-64AF4AE12991}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E18BE1CC-3E1C-40F8-B4FE-BB9251AE99B4}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\repos\\WCF_elso\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55D8845D-3C2B-4AFC-B010-7DB1465DB6E7}|WCF_elso\\WCF_elso_server.csproj|E:\\repos\\WCF_elso\\wcf_elso\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55D8845D-3C2B-4AFC-B010-7DB1465DB6E7}|WCF_elso\\WCF_elso_server.csproj|solutionrelative:wcf_elso\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55D8845D-3C2B-4AFC-B010-7DB1465DB6E7}|WCF_elso\\WCF_elso_server.csproj|e:\\repos\\wcf_elso\\wcf_elso\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55D8845D-3C2B-4AFC-B010-7DB1465DB6E7}|WCF_elso\\WCF_elso_server.csproj|solutionrelative:wcf_elso\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55D8845D-3C2B-4AFC-B010-7DB1465DB6E7}|WCF_elso\\WCF_elso_server.csproj|E:\\repos\\WCF_elso\\wcf_elso\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{55D8845D-3C2B-4AFC-B010-7DB1465DB6E7}|WCF_elso\\WCF_elso_server.csproj|solutionrelative:wcf_elso\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69091194-324E-4972-B40E-0D6E711C9CEF}|WCF_elso_host\\WCF_elso_host.csproj|E:\\repos\\WCF_elso\\wcf_elso_host\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69091194-324E-4972-B40E-0D6E711C9CEF}|WCF_elso_host\\WCF_elso_host.csproj|solutionrelative:wcf_elso_host\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{665AE095-DBD2-4957-9409-64AF4AE12991}|WCF_elso_client\\WCF_elso_client.csproj|E:\\repos\\WCF_elso\\wcf_elso_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{665AE095-DBD2-4957-9409-64AF4AE12991}|WCF_elso_client\\WCF_elso_client.csproj|solutionrelative:wcf_elso_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{665AE095-DBD2-4957-9409-64AF4AE12991}|WCF_elso_client\\WCF_elso_client.csproj|E:\\repos\\WCF_elso\\wcf_elso_client\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{665AE095-DBD2-4957-9409-64AF4AE12991}|WCF_elso_client\\WCF_elso_client.csproj|solutionrelative:wcf_elso_client\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69091194-324E-4972-B40E-0D6E711C9CEF}|WCF_elso_host\\WCF_elso_host.csproj|E:\\repos\\WCF_elso\\wcf_elso_host\\connected services\\servicereference1\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69091194-324E-4972-B40E-0D6E711C9CEF}|WCF_elso_host\\WCF_elso_host.csproj|solutionrelative:wcf_elso_host\\connected services\\servicereference1\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{665AE095-DBD2-4957-9409-64AF4AE12991}|WCF_elso_client\\WCF_elso_client.csproj|E:\\repos\\WCF_elso\\wcf_elso_client\\connected services\\servicereference1\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{665AE095-DBD2-4957-9409-64AF4AE12991}|WCF_elso_client\\WCF_elso_client.csproj|solutionrelative:wcf_elso_client\\connected services\\servicereference1\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69091194-324E-4972-B40E-0D6E711C9CEF}|WCF_elso_host\\WCF_elso_host.csproj|E:\\repos\\WCF_elso\\wcf_elso_host\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{69091194-324E-4972-B40E-0D6E711C9CEF}|WCF_elso_host\\WCF_elso_host.csproj|solutionrelative:wcf_elso_host\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69091194-324E-4972-B40E-0D6E711C9CEF}|WCF_elso_host\\WCF_elso_host.csproj|E:\\repos\\WCF_elso\\wcf_elso_host\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69091194-324E-4972-B40E-0D6E711C9CEF}|WCF_elso_host\\WCF_elso_host.csproj|solutionrelative:wcf_elso_host\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Reference.cs",
+              "DocumentMoniker": "E:\\repos\\WCF_elso\\WCF_elso_host\\Connected Services\\ServiceReference1\\Reference.cs",
+              "RelativeDocumentMoniker": "WCF_elso_host\\Connected Services\\ServiceReference1\\Reference.cs",
+              "ToolTip": "E:\\repos\\WCF_elso\\WCF_elso_host\\Connected Services\\ServiceReference1\\Reference.cs",
+              "RelativeToolTip": "WCF_elso_host\\Connected Services\\ServiceReference1\\Reference.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAFwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T16:50:27.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Reference.cs",
+              "DocumentMoniker": "E:\\repos\\WCF_elso\\WCF_elso_client\\Connected Services\\ServiceReference1\\Reference.cs",
+              "RelativeDocumentMoniker": "WCF_elso_client\\Connected Services\\ServiceReference1\\Reference.cs",
+              "ToolTip": "E:\\repos\\WCF_elso\\WCF_elso_client\\Connected Services\\ServiceReference1\\Reference.cs",
+              "RelativeToolTip": "WCF_elso_client\\Connected Services\\ServiceReference1\\Reference.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T16:27:02.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\repos\\WCF_elso\\WCF_elso_client\\App.config",
+              "RelativeDocumentMoniker": "WCF_elso_client\\App.config",
+              "ToolTip": "E:\\repos\\WCF_elso\\WCF_elso_client\\App.config",
+              "RelativeToolTip": "WCF_elso_client\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-21T15:55:54.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\repos\\WCF_elso\\WCF_elso_client\\Program.cs",
+              "RelativeDocumentMoniker": "WCF_elso_client\\Program.cs",
+              "ToolTip": "E:\\repos\\WCF_elso\\WCF_elso_client\\Program.cs",
+              "RelativeToolTip": "WCF_elso_client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T15:50:08.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\repos\\WCF_elso\\WCF_elso_host\\Program.cs",
+              "RelativeDocumentMoniker": "WCF_elso_host\\Program.cs",
+              "ToolTip": "E:\\repos\\WCF_elso\\WCF_elso_host\\Program.cs",
+              "RelativeToolTip": "WCF_elso_host\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T10:28:51.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "E:\\repos\\WCF_elso\\WCF_elso_host\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "WCF_elso_host\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "E:\\repos\\WCF_elso\\WCF_elso_host\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "WCF_elso_host\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T10:38:09.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\repos\\WCF_elso\\WCF_elso_host\\App.config",
+              "RelativeDocumentMoniker": "WCF_elso_host\\App.config",
+              "ToolTip": "E:\\repos\\WCF_elso\\WCF_elso_host\\App.config",
+              "RelativeToolTip": "WCF_elso_host\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-21T10:55:24.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "E:\\repos\\WCF_elso\\WCF_elso\\Web.config",
+              "RelativeDocumentMoniker": "WCF_elso\\Web.config",
+              "ToolTip": "E:\\repos\\WCF_elso\\WCF_elso\\Web.config",
+              "RelativeToolTip": "WCF_elso\\Web.config",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACoAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-21T09:53:42.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IService1.cs",
+              "DocumentMoniker": "E:\\repos\\WCF_elso\\WCF_elso\\IService1.cs",
+              "RelativeDocumentMoniker": "WCF_elso\\IService1.cs",
+              "ToolTip": "E:\\repos\\WCF_elso\\WCF_elso\\IService1.cs",
+              "RelativeToolTip": "WCF_elso\\IService1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T09:48:51.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Service1.svc.cs",
+              "DocumentMoniker": "E:\\repos\\WCF_elso\\WCF_elso\\Service1.svc.cs",
+              "RelativeDocumentMoniker": "WCF_elso\\Service1.svc.cs",
+              "ToolTip": "E:\\repos\\WCF_elso\\WCF_elso\\Service1.svc.cs",
+              "RelativeToolTip": "WCF_elso\\Service1.svc.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T09:41:01.43Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
