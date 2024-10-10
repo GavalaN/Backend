@@ -28,10 +28,10 @@ namespace WCF_elso_host.ServiceReference1 {
         System.Threading.Tasks.Task<string> GetEloadoNameAsync();
 
         [System.ServiceModel.OperationContractAttribute(Action = "http://tempuri.org/IService1/GetZeneszam", ReplyAction = "http://tempuri.org/IService1/GetZeneszamResponse")]
-        WCF_elso_server.Zeneszam GetZeneszam();
+        WCF_elso_server.Models.Zeneszam GetZeneszam();
 
         [System.ServiceModel.OperationContractAttribute(Action = "http://tempuri.org/IService1/GetZeneszam", ReplyAction = "http://tempuri.org/IService1/GetZeneszamResponse")]
-        System.Threading.Tasks.Task<WCF_elso_server.Zeneszam> GetZeneszamAsync();
+        System.Threading.Tasks.Task<WCF_elso_server.Models.Zeneszam> GetZeneszamAsync();
     }
     
     [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
@@ -81,12 +81,12 @@ namespace WCF_elso_host.ServiceReference1 {
             return base.Channel.GetEloadoNameAsync();
         }
 
-        public WCF_elso_server.Zeneszam GetZeneszam()
+        public WCF_elso_server.Models.Zeneszam GetZeneszam()
         {
             return base.Channel.GetZeneszam();
         }
 
-        public System.Threading.Tasks.Task<WCF_elso_server.Zeneszam> GetZeneszamAsync()
+        public System.Threading.Tasks.Task<WCF_elso_server.Models.Zeneszam> GetZeneszamAsync()
         {
             return base.Channel.GetZeneszamAsync();
         }

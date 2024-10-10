@@ -13,3 +13,12 @@ C:\Users\Tanulo\Downloads\WCF_elso\WCF_elso\WCF_elso\obj\Debug\WCF_elso_server.c
 C:\Users\Tanulo\Downloads\WCF_elso\WCF_elso\WCF_elso\obj\Debug\WCF_elso.dll
 C:\Users\Tanulo\Downloads\WCF_elso\WCF_elso\WCF_elso\obj\Debug\WCF_elso.pdb
 C:\Users\Tanulo\Downloads\WCF_elso\WCF_elso\WCF_elso\bin\valami.txt
+C:\Users\ParrotGamer\Source\Repos\GavalaN\Backend\WCF_elso\WCF_elso\obj\Debug\WCF_elso_server.csproj.AssemblyReference.cache
+C:\Users\ParrotGamer\Source\Repos\GavalaN\Backend\WCF_elso\WCF_elso\obj\Debug\WCF_elso_server.csproj.CoreCompileInputs.cache
+C:\Users\ParrotGamer\Source\Repos\GavalaN\Backend\WCF_elso\WCF_elso\obj\Debug\WCF_elso.dll
+C:\Users\ParrotGamer\Source\Repos\GavalaN\Backend\WCF_elso\WCF_elso\obj\Debug\WCF_elso.pdb
+C:\Users\ParrotGamer\Source\Repos\GavalaN\Backend\WCF_elso\WCF_elso\bin\eloado.txt
+C:\Users\ParrotGamer\Source\Repos\GavalaN\Backend\WCF_elso\WCF_elso\bin\Models\Zeneszam.cs
+C:\Users\ParrotGamer\Source\Repos\GavalaN\Backend\WCF_elso\WCF_elso\bin\WCF_elso.dll.config
+C:\Users\ParrotGamer\Source\Repos\GavalaN\Backend\WCF_elso\WCF_elso\bin\WCF_elso.dll
+C:\Users\ParrotGamer\Source\Repos\GavalaN\Backend\WCF_elso\WCF_elso\bin\WCF_elso.pdb

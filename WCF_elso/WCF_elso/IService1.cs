@@ -24,7 +24,7 @@ namespace WCF_elso_server
         string GetEloadoName();
         [OperationContract]
         //[WebGet(UriTemplate = "/GetZeneszam")]
-        Zeneszam GetZeneszam();
+        List<Zeneszam> GetZeneszam();
         [OperationContract]
         //[WebGet(UriTemplate = "/GetCD")]
         CD GetCD();
@@ -34,20 +34,17 @@ namespace WCF_elso_server
         string ModositEloado(Eloado eloado);
         [OperationContract]
         string TorolElado(Eloado elado);
+        [OperationContract]
+        string UjZeneszam(Zeneszam UjZeneszam);
+        [OperationContract]
+        string ModositZeneszam(Zeneszam zeneszam);
+        [OperationContract]
+        string TorolZeneszam(Zeneszam zeneszam);
     }
 
 
     // Use a data contract as illustrated in the sample below to add composite types to service operations.
    
-    public class Zeneszam
-    {
-        [DataMember]
-        public int ZeneszamAz { get; set; }
-        [DataMember]
-        public string ZeneszamCim { get; set; }
-        [DataMember]
-        public int ZeneszamHossz { get; set; }
-    }
 
     public class CD
     {

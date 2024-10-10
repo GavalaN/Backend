@@ -62,14 +62,19 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Service1.svc" />
-    <Content Include="valami.txt">
+    <Content Include="eloado.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="Web.config" />
+    <Content Include="zeneszam.txt" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Controllers\EloadoController.cs" />
+    <Compile Include="Controllers\ZeneszamController.cs" />
     <Compile Include="Models\Eloado.cs" />
+    <Compile Include="Models\Zeneszam.cs">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
     <Compile Include="Service1.svc.cs">
       <DependentUpon>Service1.svc</DependentUpon>
     </Compile>

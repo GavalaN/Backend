@@ -42,20 +42,22 @@ namespace WCF_elso_server
             return eloado1.eloadoName;
         }
 
-        public Zeneszam GetZeneszam()
+        public List<Zeneszam> GetZeneszam()
         {
-            Zeneszam zeneszam = new Zeneszam()
-            {
-                ZeneszamAz = 1,
-                ZeneszamCim = "Who wants to live forever",
-                ZeneszamHossz = 315
-            };
+            List <Zeneszam> zeneszam = new ZeneszamController().ZeneszamLista();
             return zeneszam;
         }
+ 
+
 
         public string ModositEloado(Eloado eloado)
         {
             return new EloadoController().InsertEloado(eloado);
+        }
+
+        public string ModositZeneszam(Zeneszam zeneszam)
+        {
+            return new ZeneszamController().UpdateZeneszam(zeneszam);
         }
 
         public string TorolElado(Eloado elado)
@@ -63,9 +65,19 @@ namespace WCF_elso_server
             return new EloadoController().DeleteElado(elado);
         }
 
+        public string TorolZeneszam(Zeneszam zeneszam)
+        {
+            return new ZeneszamController().DeleteZeneszam(zeneszam);  
+        }
+
         public string UjEloado(Eloado ujEloado)
         {
             return new EloadoController().InsertEloado(ujEloado);
+        }
+
+        public string UjZeneszam(Zeneszam UjZeneszam)
+        {
+            return new ZeneszamController().InsertZeneszam(UjZeneszam);
         }
     }
 }
