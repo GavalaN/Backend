@@ -1,0 +1,8 @@
+C:\Users\Rendszergazda\source\repos\TestLogin_Client\TestLogin_Client\bin\Debug\TestLogin_Client.exe.config
+C:\Users\Rendszergazda\source\repos\TestLogin_Client\TestLogin_Client\bin\Debug\TestLogin_Client.exe
+C:\Users\Rendszergazda\source\repos\TestLogin_Client\TestLogin_Client\bin\Debug\TestLogin_Client.pdb
+C:\Users\Rendszergazda\source\repos\TestLogin_Client\TestLogin_Client\obj\Debug\TestLogin_Client.csproj.AssemblyReference.cache
+C:\Users\Rendszergazda\source\repos\TestLogin_Client\TestLogin_Client\obj\Debug\TestLogin_Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rendszergazda\source\repos\TestLogin_Client\TestLogin_Client\obj\Debug\TestLogin_Client.csproj.CoreCompileInputs.cache
+C:\Users\Rendszergazda\source\repos\TestLogin_Client\TestLogin_Client\obj\Debug\TestLogin_Client.exe
+C:\Users\Rendszergazda\source\repos\TestLogin_Client\TestLogin_Client\obj\Debug\TestLogin_Client.pdb
