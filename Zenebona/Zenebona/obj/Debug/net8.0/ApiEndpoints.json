@@ -1,0 +1,32 @@
+[
+  {
+    "ContainingType": "Zenebona.Controllers.ELoadoController",
+    "Method": "Get",
+    "RelativePath": "ELoado",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Zenebona.Controllers.KiadoController",
+    "Method": "Get",
+    "RelativePath": "Kiado",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Zenebona.Controllers.ZeneszamController",
+    "Method": "Get",
+    "RelativePath": "Zeneszam",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

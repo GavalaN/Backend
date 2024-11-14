@@ -1,0 +1,38 @@
+﻿@{
+    ViewData["Title"] = "Zeneszámok";
+}
+
+<div class="text-center">
+    <table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Név</th>
+            <th>ElőadóId</th>
+            <th>Előadó neve</th>
+            <th>KiadóId</th>
+            <th>Kiadó neve</th>
+            <th>Megjelenés éve</th>
+            <th>Lejátszási idő</th>
+            <th>Jogdíjas-e</th>
+        </tr>
+    </thead>
+    <tbody>
+            @foreach (Zeneszam zeneszam in Model)
+            {
+                <tr>
+                    <td>@zeneszam.Id</td>
+                    <td>@zeneszam.Nev</td>
+                    <td>@zeneszam.EloadoId</td>
+                    <td>@zeneszam.Eloado.Nev</td>
+                    <td>@zeneszam.KiadoId</td>
+                    <td>@zeneszam.Kiado.Nev</td>
+                    <td>@zeneszam.MegjelenesEve</td>
+                    <td>@zeneszam.LejatszasiIdo</td>
+                    <td>@zeneszam.Jogdijas</td>
+                </tr>
+            }
+            
+    </tbody>
+</table>
+</div>

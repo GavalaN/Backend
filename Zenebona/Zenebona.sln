@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zenebona", "Zenebona\Zenebona.csproj", "{101AB054-10AD-4443-B06D-7813ACB6471F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{101AB054-10AD-4443-B06D-7813ACB6471F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{101AB054-10AD-4443-B06D-7813ACB6471F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{101AB054-10AD-4443-B06D-7813ACB6471F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{101AB054-10AD-4443-B06D-7813ACB6471F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F4DEBCC-73D2-484B-B3E8-210D947EB6AF}
+	EndGlobalSection
+EndGlobal

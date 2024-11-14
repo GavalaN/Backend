@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "Kiadók";
+}
+
+<div class="text-center">
+    <table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Név</th>
+            <th>Alapítás éve</th>
+            <th>Cím</th>
+            <th>Email</th>
+        </tr>
+    </thead>
+    <tbody>
+            @foreach (Kiado kiado in Model)
+            {
+                <tr>
+                    <td>@kiado.Id</td>
+                    <td>@kiado.Nev</td>
+                    <td>@kiado.AlapitasEve</td>
+                    <td>@kiado.Cim</td>
+                    <td>@kiado.Email</td>
+                </tr>
+            }
+            
+    </tbody>
+</table>
+</div>
