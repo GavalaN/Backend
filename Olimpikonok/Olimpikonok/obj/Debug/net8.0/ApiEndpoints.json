@@ -1,0 +1,50 @@
+[
+  {
+    "ContainingType": "Olimpikonok.Controllers.OrszagController",
+    "Method": "Get",
+    "RelativePath": "Orszag/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Olimpikonok.Controllers.SportoloController",
+    "Method": "Get",
+    "RelativePath": "Sportolo/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Olimpikonok.Controllers.SportoloController",
+    "Method": "Delete",
+    "RelativePath": "Sportolo/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

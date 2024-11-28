@@ -1,0 +1,63 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Olimpikonok
+build_property.RootNamespace = Olimpikonok
+build_property.ProjectDir = C:\Users\ParrotGamer\Source\Repos\GavalaN\Backend\Olimpikonok\Olimpikonok\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\ParrotGamer\Source\Repos\GavalaN\Backend\Olimpikonok\Olimpikonok
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/ParrotGamer/Source/Repos/GavalaN/Backend/Olimpikonok/Olimpikonok/Views/Home/GetOrszagok.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHZXRPcnN6YWdvay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ParrotGamer/Source/Repos/GavalaN/Backend/Olimpikonok/Olimpikonok/Views/Home/GetSportolok.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHZXRTcG9ydG9sb2suY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ParrotGamer/Source/Repos/GavalaN/Backend/Olimpikonok/Olimpikonok/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ParrotGamer/Source/Repos/GavalaN/Backend/Olimpikonok/Olimpikonok/Views/Home/NagyKepView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxOYWd5S2VwVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ParrotGamer/Source/Repos/GavalaN/Backend/Olimpikonok/Olimpikonok/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ParrotGamer/Source/Repos/GavalaN/Backend/Olimpikonok/Olimpikonok/Views/Home/SportoloEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTcG9ydG9sb0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ParrotGamer/Source/Repos/GavalaN/Backend/Olimpikonok/Olimpikonok/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ParrotGamer/Source/Repos/GavalaN/Backend/Olimpikonok/Olimpikonok/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ParrotGamer/Source/Repos/GavalaN/Backend/Olimpikonok/Olimpikonok/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ParrotGamer/Source/Repos/GavalaN/Backend/Olimpikonok/Olimpikonok/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ParrotGamer/Source/Repos/GavalaN/Backend/Olimpikonok/Olimpikonok/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-vcx8znb878
