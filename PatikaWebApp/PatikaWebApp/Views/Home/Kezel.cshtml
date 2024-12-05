@@ -1,0 +1,25 @@
+﻿@{
+    ViewData["Title"] = "A gyógyszer alkalmazhatósága";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Gyógyszerek adatai</h1>
+
+    <table class="table table-striped table-bordered">
+        <thead>
+            <tr>
+                <th>Név</th>
+                <th>Leírás</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (Kezel kezel in Model)
+            {
+                <tr>
+                    <td>@kezel.Gyogyszer.Nev</td>
+                    <td>@kezel.Betegseg.Leiras</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

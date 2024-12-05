@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ParrotGamer\\source\\repos\\PatikaWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB139F8E-2F4B-4BD7-8D4C-975D6EC31261}|PatikaWebApp\\PatikaWebApp.csproj|c:\\users\\parrotgamer\\source\\repos\\patikawebapp\\patikawebapp\\services\\kezelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB139F8E-2F4B-4BD7-8D4C-975D6EC31261}|PatikaWebApp\\PatikaWebApp.csproj|solutionrelative:patikawebapp\\services\\kezelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB139F8E-2F4B-4BD7-8D4C-975D6EC31261}|PatikaWebApp\\PatikaWebApp.csproj|c:\\users\\parrotgamer\\source\\repos\\patikawebapp\\patikawebapp\\controllers\\kezelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB139F8E-2F4B-4BD7-8D4C-975D6EC31261}|PatikaWebApp\\PatikaWebApp.csproj|solutionrelative:patikawebapp\\controllers\\kezelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB139F8E-2F4B-4BD7-8D4C-975D6EC31261}|PatikaWebApp\\PatikaWebApp.csproj|c:\\users\\parrotgamer\\source\\repos\\patikawebapp\\patikawebapp\\dtos\\kezeldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB139F8E-2F4B-4BD7-8D4C-975D6EC31261}|PatikaWebApp\\PatikaWebApp.csproj|solutionrelative:patikawebapp\\dtos\\kezeldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB139F8E-2F4B-4BD7-8D4C-975D6EC31261}|PatikaWebApp\\PatikaWebApp.csproj|c:\\users\\parrotgamer\\source\\repos\\patikawebapp\\patikawebapp\\views\\home\\gyogyszerek.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB139F8E-2F4B-4BD7-8D4C-975D6EC31261}|PatikaWebApp\\PatikaWebApp.csproj|solutionrelative:patikawebapp\\views\\home\\gyogyszerek.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB139F8E-2F4B-4BD7-8D4C-975D6EC31261}|PatikaWebApp\\PatikaWebApp.csproj|c:\\users\\parrotgamer\\source\\repos\\patikawebapp\\patikawebapp\\viewcontrollers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB139F8E-2F4B-4BD7-8D4C-975D6EC31261}|PatikaWebApp\\PatikaWebApp.csproj|solutionrelative:patikawebapp\\viewcontrollers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB139F8E-2F4B-4BD7-8D4C-975D6EC31261}|PatikaWebApp\\PatikaWebApp.csproj|c:\\users\\parrotgamer\\source\\repos\\patikawebapp\\patikawebapp\\views\\home\\kezel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB139F8E-2F4B-4BD7-8D4C-975D6EC31261}|PatikaWebApp\\PatikaWebApp.csproj|solutionrelative:patikawebapp\\views\\home\\kezel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB139F8E-2F4B-4BD7-8D4C-975D6EC31261}|PatikaWebApp\\PatikaWebApp.csproj|c:\\users\\parrotgamer\\source\\repos\\patikawebapp\\patikawebapp\\controllers\\gyogyszercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB139F8E-2F4B-4BD7-8D4C-975D6EC31261}|PatikaWebApp\\PatikaWebApp.csproj|solutionrelative:patikawebapp\\controllers\\gyogyszercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB139F8E-2F4B-4BD7-8D4C-975D6EC31261}|PatikaWebApp\\PatikaWebApp.csproj|c:\\users\\parrotgamer\\source\\repos\\patikawebapp\\patikawebapp\\services\\gyogyszerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB139F8E-2F4B-4BD7-8D4C-975D6EC31261}|PatikaWebApp\\PatikaWebApp.csproj|solutionrelative:patikawebapp\\services\\gyogyszerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB139F8E-2F4B-4BD7-8D4C-975D6EC31261}|PatikaWebApp\\PatikaWebApp.csproj|c:\\users\\parrotgamer\\source\\repos\\patikawebapp\\patikawebapp\\models\\kezel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB139F8E-2F4B-4BD7-8D4C-975D6EC31261}|PatikaWebApp\\PatikaWebApp.csproj|solutionrelative:patikawebapp\\models\\kezel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KezelDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ParrotGamer\\source\\repos\\PatikaWebApp\\PatikaWebApp\\DTOs\\KezelDTO.cs",
+              "RelativeDocumentMoniker": "PatikaWebApp\\DTOs\\KezelDTO.cs",
+              "ToolTip": "C:\\Users\\ParrotGamer\\source\\repos\\PatikaWebApp\\PatikaWebApp\\DTOs\\KezelDTO.cs",
+              "RelativeToolTip": "PatikaWebApp\\DTOs\\KezelDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T19:13:34.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KezelController.cs",
+              "DocumentMoniker": "C:\\Users\\ParrotGamer\\source\\repos\\PatikaWebApp\\PatikaWebApp\\Controllers\\KezelController.cs",
+              "RelativeDocumentMoniker": "PatikaWebApp\\Controllers\\KezelController.cs",
+              "ToolTip": "C:\\Users\\ParrotGamer\\source\\repos\\PatikaWebApp\\PatikaWebApp\\Controllers\\KezelController.cs",
+              "RelativeToolTip": "PatikaWebApp\\Controllers\\KezelController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T18:53:05.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KezelService.cs",
+              "DocumentMoniker": "C:\\Users\\ParrotGamer\\source\\repos\\PatikaWebApp\\PatikaWebApp\\Services\\KezelService.cs",
+              "RelativeDocumentMoniker": "PatikaWebApp\\Services\\KezelService.cs",
+              "ToolTip": "C:\\Users\\ParrotGamer\\source\\repos\\PatikaWebApp\\PatikaWebApp\\Services\\KezelService.cs",
+              "RelativeToolTip": "PatikaWebApp\\Services\\KezelService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T18:36:35.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GyogyszerController.cs",
+              "DocumentMoniker": "C:\\Users\\ParrotGamer\\source\\repos\\PatikaWebApp\\PatikaWebApp\\Controllers\\GyogyszerController.cs",
+              "RelativeDocumentMoniker": "PatikaWebApp\\Controllers\\GyogyszerController.cs",
+              "ToolTip": "C:\\Users\\ParrotGamer\\source\\repos\\PatikaWebApp\\PatikaWebApp\\Controllers\\GyogyszerController.cs",
+              "RelativeToolTip": "PatikaWebApp\\Controllers\\GyogyszerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T18:18:24.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GyogyszerService.cs",
+              "DocumentMoniker": "C:\\Users\\ParrotGamer\\source\\repos\\PatikaWebApp\\PatikaWebApp\\Services\\GyogyszerService.cs",
+              "RelativeDocumentMoniker": "PatikaWebApp\\Services\\GyogyszerService.cs",
+              "ToolTip": "C:\\Users\\ParrotGamer\\source\\repos\\PatikaWebApp\\PatikaWebApp\\Services\\GyogyszerService.cs",
+              "RelativeToolTip": "PatikaWebApp\\Services\\GyogyszerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T17:46:08.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Kezel.cs",
+              "DocumentMoniker": "C:\\Users\\ParrotGamer\\source\\repos\\PatikaWebApp\\PatikaWebApp\\Models\\Kezel.cs",
+              "RelativeDocumentMoniker": "PatikaWebApp\\Models\\Kezel.cs",
+              "ToolTip": "C:\\Users\\ParrotGamer\\source\\repos\\PatikaWebApp\\PatikaWebApp\\Models\\Kezel.cs",
+              "RelativeToolTip": "PatikaWebApp\\Models\\Kezel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T18:32:38.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Kezel.cshtml",
+              "DocumentMoniker": "C:\\Users\\ParrotGamer\\source\\repos\\PatikaWebApp\\PatikaWebApp\\Views\\Home\\Kezel.cshtml",
+              "RelativeDocumentMoniker": "PatikaWebApp\\Views\\Home\\Kezel.cshtml",
+              "ToolTip": "C:\\Users\\ParrotGamer\\source\\repos\\PatikaWebApp\\PatikaWebApp\\Views\\Home\\Kezel.cshtml",
+              "RelativeToolTip": "PatikaWebApp\\Views\\Home\\Kezel.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T18:30:48.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ParrotGamer\\source\\repos\\PatikaWebApp\\PatikaWebApp\\ViewControllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PatikaWebApp\\ViewControllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ParrotGamer\\source\\repos\\PatikaWebApp\\PatikaWebApp\\ViewControllers\\HomeController.cs",
+              "RelativeToolTip": "PatikaWebApp\\ViewControllers\\HomeController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAB8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T17:42:43.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Gyogyszerek.cshtml",
+              "DocumentMoniker": "C:\\Users\\ParrotGamer\\source\\repos\\PatikaWebApp\\PatikaWebApp\\Views\\Home\\Gyogyszerek.cshtml",
+              "RelativeDocumentMoniker": "PatikaWebApp\\Views\\Home\\Gyogyszerek.cshtml",
+              "ToolTip": "C:\\Users\\ParrotGamer\\source\\repos\\PatikaWebApp\\PatikaWebApp\\Views\\Home\\Gyogyszerek.cshtml",
+              "RelativeToolTip": "PatikaWebApp\\Views\\Home\\Gyogyszerek.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T17:39:59.764Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

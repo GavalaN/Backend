@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "PatikaWebApp.Controllers.GyogyszerController",
+    "Method": "Get",
+    "RelativePath": "Gyogyszer",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PatikaWebApp.Controllers.KezelController",
+    "Method": "Get",
+    "RelativePath": "Kezel/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
