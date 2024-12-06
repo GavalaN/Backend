@@ -182,7 +182,7 @@ namespace PatikaAPI.Controllers
             {
                 try
                 {
-                    if (context.Gyogyszers.FirstOrDefault(gy => gy.Id == ujgyogyszer.Id) is not null)
+                    if (context.Gyogyszers.Contains(ujgyogyszer))
                     {
                         context.Gyogyszers.Update(ujgyogyszer);
                         context.SaveChanges();

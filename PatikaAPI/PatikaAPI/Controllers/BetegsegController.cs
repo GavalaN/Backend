@@ -184,7 +184,7 @@ namespace PatikaAPI.Controllers
             {
                 try
                 {
-                    if (context.Betegsegs.FirstOrDefault(b => b.Id == ujBetegseg.Id) is not null)
+                    if (context.Betegsegs.Contains(ujBetegseg))
                     {
                         context.Betegsegs.Update(ujBetegseg);
                         context.SaveChanges();
