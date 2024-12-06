@@ -174,5 +174,31 @@ namespace PatikaAPI.Controllers
                 }
             }
         }
+
+        [HttpPut]
+        public IActionResult Put(Gyogyszer ujgyogyszer)
+        {
+            using (var context = new PatikaContext())
+            {
+                try
+                {
+                    if (context.Gyogyszers.FirstOrDefault(gy => gy.Id == ujgyogyszer.Id) is not null)
+                    {
+                        context.Gyogyszers.Update(ujgyogyszer);
+                        context.SaveChanges();
+                        return Ok("Sikeres módosítás!");
+                    }
+                    else
+                    {
+                        return NotFound("Nincs ilyen elem!");
+                    }
+                    
+                }
+                catch (Exception ex)
+                {
+                    return BadRequest(ex.Message);
+                }
+            }
+        }
     }
 }
