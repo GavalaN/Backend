@@ -175,7 +175,7 @@ namespace PatikaAPI.Controllers
             }
         }
 
-        [HttpPut("UjGyogyszer")]
+        [HttpPut("ModositGyogyszer")]
         public IActionResult Put(Gyogyszer ujgyogyszer)
         {
             using (var context = new PatikaContext())
