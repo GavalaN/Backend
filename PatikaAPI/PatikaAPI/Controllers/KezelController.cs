@@ -33,7 +33,13 @@ namespace PatikaAPI.Controllers
             {
                 try
                 {
-                    context.Kezels.Add(UjKezel);
+                    Kezel kezel = new Kezel()
+                    {
+                        Id = UjKezel.Id,
+                        BetegsegId = UjKezel.BetegsegId,
+                        Gyogyszer = UjKezel.GyogyszerId,
+                    };
+                    context.Kezels.Add(kezel);
                     context.SaveChanges();
                     return Ok(context);
                 }
