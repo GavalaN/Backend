@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using PatikaAPI.Models;
 using System.Security.Cryptography.Xml;
+using PatikaAPI.DTOs
 
 namespace PatikaAPI.Controllers
 {
@@ -106,6 +107,33 @@ namespace PatikaAPI.Controllers
             }
         }
 
-        
+        [HttpGet("BetegsegDTO")]
+        public IActionResult GetBetegsegDTO()
+        {
+            using (var context = new PatikaContext())
+            {
+                try
+                {
+                    List<BetegsegDTO> result = context.Betegsegs.Select(b => new BetegsegDTO()
+                    {
+                        Id = b.Id,
+                        Megnevezes = b.Megnevezes,
+                    }).ToList();
+                    return Ok(result);
+                }
+                catch (Exception ex)
+                {
+                    List<BetegsegDTO> result =
+                    [
+                        new BetegsegDTO
+                        {
+                            Id = -1,
+                            Megnevezes = ex.Message
+                        },
+                    ];
+                    return StatusCode(400, result);
+                }
+            }
+        }
     }
 }
