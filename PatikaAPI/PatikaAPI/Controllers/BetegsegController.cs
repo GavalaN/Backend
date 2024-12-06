@@ -135,5 +135,72 @@ namespace PatikaAPI.Controllers
                 }
             }
         }
+
+        [HttpPost("Ujbetegseg")]
+        public IActionResult Post(Betegseg betegseg)
+        {
+            using (var context = new PatikaContext())
+            {
+                try
+                {
+                    context.Betegsegs.Add(betegseg);
+                    context.SaveChanges();
+                    return Ok("Sikeres rögzítés");
+                }
+                catch (Exception ex)
+                {
+                    return BadRequest(ex.Message);
+                }
+            }
+
+        }
+
+        [HttpDelete("TorlesBetegseg")]
+        public IActionResult Delete(int Id)
+        {
+            using (var context = new PatikaContext())
+            {
+                try
+                {
+                    Betegseg torlendo = new Betegseg()
+                    {
+                        Id = Id,
+                    };
+                    context.Betegsegs.Remove(torlendo);
+                    context.SaveChanges();
+                    return Ok("Sikeres törlés!");
+                }
+                catch (Exception ex)
+                {
+                    return BadRequest(ex.Message);
+                }
+            }
+        }
+
+        [HttpPut("UjBetegseg")]
+        public IActionResult Put(Betegseg ujBetegseg)
+        {
+            using (var context = new PatikaContext())
+            {
+                try
+                {
+                    if (context.Betegsegs.FirstOrDefault(b => b.Id == ujBetegseg.Id) is not null)
+                    {
+                        context.Betegsegs.Update(ujBetegseg);
+                        context.SaveChanges();
+                        return Ok("Sikeres módosítás!");
+                    }
+                    else
+                    {
+                        return NotFound("Nincs ilyen elem!");
+                    }
+
+                }
+                catch (Exception ex)
+                {
+                    return BadRequest(ex.Message);
+                }
+            }
+        }
     }
 }
