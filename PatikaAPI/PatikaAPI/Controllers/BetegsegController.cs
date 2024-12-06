@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using PatikaAPI.Models;
 using System.Security.Cryptography.Xml;
-using PatikaAPI.DTOs
+using PatikaAPI.DTOs;
 
 namespace PatikaAPI.Controllers
 {

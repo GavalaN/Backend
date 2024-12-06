@@ -133,5 +133,46 @@ namespace PatikaAPI.Controllers
                 }
             }
         }
+
+        [HttpPost("Ujgyogyszer")]
+        public IActionResult Post(Gyogyszer gyogyszer)
+        {
+            using (var context = new PatikaContext())
+            {
+                try
+                {
+                    context.Gyogyszers.Add(gyogyszer);
+                    context.SaveChanges();
+                    return Ok("Sikeres rögzítés");
+                }
+                catch (Exception ex)
+                {
+                    return BadRequest(ex.Message);
+                }
+            }
+            
+        }
+
+        [HttpDelete("TorlesGyogyszer")]
+        public IActionResult Delete(int Id)
+        {
+            using (var context = new PatikaContext())
+            {
+                try
+                {
+                    Gyogyszer torlendo = new Gyogyszer()
+                    {
+                        Id = Id,
+                    };
+                    context.Gyogyszers.Remove(torlendo);
+                    context.SaveChanges();
+                    return Ok("Sikeres törlés!");
+                }
+                catch (Exception ex)
+                {
+                    return BadRequest(ex.Message);
+                }
+            }
+        }
     }
 }
