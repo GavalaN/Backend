@@ -33,7 +33,7 @@ namespace PatikaAPI.Controllers
             {
                 try
                 {
-                    context.Kezels.Include(k => k.Betegseg).Include(k => k.Gyogyszer).Add(UjKezel);
+                    context.Kezels.Add(UjKezel);
                     context.SaveChanges();
                     return Ok(context);
                 }
