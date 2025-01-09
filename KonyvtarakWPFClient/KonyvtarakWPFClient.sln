@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KonyvtarakWPFClient", "KonyvtarakWPFClient\KonyvtarakWPFClient.csproj", "{079AB2C4-2555-4490-8D22-F6106B090E6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{079AB2C4-2555-4490-8D22-F6106B090E6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{079AB2C4-2555-4490-8D22-F6106B090E6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{079AB2C4-2555-4490-8D22-F6106B090E6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{079AB2C4-2555-4490-8D22-F6106B090E6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E23EBB3C-87E7-4DAD-ACC0-EB667081F45E}
+	EndGlobalSection
+EndGlobal

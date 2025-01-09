@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tanulo\\source\\repos\\KonyvtarakWPFClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{079AB2C4-2555-4490-8D22-F6106B090E6E}|KonyvtarakWPFClient\\KonyvtarakWPFClient.csproj|c:\\users\\tanulo\\source\\repos\\konyvtarakwpfclient\\konyvtarakwpfclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079AB2C4-2555-4490-8D22-F6106B090E6E}|KonyvtarakWPFClient\\KonyvtarakWPFClient.csproj|solutionrelative:konyvtarakwpfclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079AB2C4-2555-4490-8D22-F6106B090E6E}|KonyvtarakWPFClient\\KonyvtarakWPFClient.csproj|c:\\users\\tanulo\\source\\repos\\konyvtarakwpfclient\\konyvtarakwpfclient\\services\\konyvtarakservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079AB2C4-2555-4490-8D22-F6106B090E6E}|KonyvtarakWPFClient\\KonyvtarakWPFClient.csproj|solutionrelative:konyvtarakwpfclient\\services\\konyvtarakservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079AB2C4-2555-4490-8D22-F6106B090E6E}|KonyvtarakWPFClient\\KonyvtarakWPFClient.csproj|c:\\users\\tanulo\\source\\repos\\konyvtarakwpfclient\\konyvtarakwpfclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{079AB2C4-2555-4490-8D22-F6106B090E6E}|KonyvtarakWPFClient\\KonyvtarakWPFClient.csproj|solutionrelative:konyvtarakwpfclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Tanulo\\source\\repos\\KonyvtarakWPFClient\\KonyvtarakWPFClient\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "KonyvtarakWPFClient\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Tanulo\\source\\repos\\KonyvtarakWPFClient\\KonyvtarakWPFClient\\MainWindow.xaml",
+              "RelativeToolTip": "KonyvtarakWPFClient\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-20T08:38:52.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Tanulo\\source\\repos\\KonyvtarakWPFClient\\KonyvtarakWPFClient\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "KonyvtarakWPFClient\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Tanulo\\source\\repos\\KonyvtarakWPFClient\\KonyvtarakWPFClient\\MainWindow.xaml.cs",
+              "RelativeToolTip": "KonyvtarakWPFClient\\MainWindow.xaml.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAAEQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T08:38:52.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KonyvtarakService.cs",
+              "DocumentMoniker": "C:\\Users\\Tanulo\\source\\repos\\KonyvtarakWPFClient\\KonyvtarakWPFClient\\Services\\KonyvtarakService.cs",
+              "RelativeDocumentMoniker": "KonyvtarakWPFClient\\Services\\KonyvtarakService.cs",
+              "ToolTip": "C:\\Users\\Tanulo\\source\\repos\\KonyvtarakWPFClient\\KonyvtarakWPFClient\\Services\\KonyvtarakService.cs",
+              "RelativeToolTip": "KonyvtarakWPFClient\\Services\\KonyvtarakService.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAEwEAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T09:00:11.76Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

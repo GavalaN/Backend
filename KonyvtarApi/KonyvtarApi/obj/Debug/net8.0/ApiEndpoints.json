@@ -1,0 +1,80 @@
+[
+  {
+    "ContainingType": "KonyvtarApi.Controllers.KonyvtarakController",
+    "Method": "GetAll",
+    "RelativePath": "Konyvtarak",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KonyvtarApi.Controllers.KonyvtarakController",
+    "Method": "KonyvtarakDelete",
+    "RelativePath": "Konyvtarak",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "kId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KonyvtarApi.Controllers.KonyvtarakController",
+    "Method": "KonyvtarakPost",
+    "RelativePath": "Konyvtarak",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ujKonyvtar",
+        "Type": "KonyvtarApi.Models.Konyvtarak",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KonyvtarApi.Controllers.KonyvtarakController",
+    "Method": "KonyvtarakPut",
+    "RelativePath": "Konyvtarak",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "modositKonyvtar",
+        "Type": "KonyvtarApi.Models.Konyvtarak",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KonyvtarApi.Controllers.KonyvtarakController",
+    "Method": "GetKonyvtarakDTO",
+    "RelativePath": "Konyvtarak/DTO",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KonyvtarApi.Controllers.KonyvtarakController",
+    "Method": "KonyvtarakAsync",
+    "RelativePath": "Konyvtarak/GetAllAsync",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
