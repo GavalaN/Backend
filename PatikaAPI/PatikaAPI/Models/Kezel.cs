@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+
+namespace PatikaAPI.Models;
+
+public partial class Kezel
+{
+    public int Id { get; set; }
+
+    public int GyogyszerId { get; set; }
+
+    public int BetegsegId { get; set; }
+
+    public virtual Betegseg Betegseg { get; set; } = null!;
+
+    public virtual Gyogyszer Gyogyszer { get; set; } = null!;
+}
